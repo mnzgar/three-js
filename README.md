@@ -1,7 +1,7 @@
 # Development of a “3D Gallery” Web Application based on Three.JS
 ## Systems and Web Technology: Client
 
-[Practice document](!docs/Desarrollo_de_una_aplicación_web_basada_en_WebGL_y_Three_JS_2324.pdf)
+[Practice document](docs/Desarrollo_de_una_aplicación_web_basada_en_WebGL_y_Three_JS_2324.pdf)
 
 ## 🚀 Prepare the development environment
 
